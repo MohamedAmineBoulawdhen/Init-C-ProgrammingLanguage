@@ -1,0 +1,15 @@
+*************************************************
+Please enter your order.First select a vegetable 
+then type in the pounds desired.
+a) Artichoke			b) Beets
+c) Carrot			q) quit
+*************************************************
+The selected vegetable: Enter the pounds desired(number required): You have now 3.00 pounds of artichoke.
+Try another choice: *************************************************
+The cost per pound of artichoke is $2.05.
+3.00 pounds of artichoke costs you $6.15.
+The total cost is $6.15.
+The total cost after discount is $6.15.
+The shipping charge is $19.50.
+The grand total of all the charges is $25.65.
+HAVE A NICE DAY !
