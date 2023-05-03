@@ -5,6 +5,6 @@ book until chapter 11, and I highly recommend it for learning and practicing C p
 It's been a great resource for me, and I'm excited to continue working through the rest of the book.
 ---
 I've also uploaded the solutions to the exercises in my repo.
-Each solution is named according to the corresponding exercise number in the book. Feel free to check them out and use them for your own learni
+Each solution is named according to the corresponding exercise number in the book. Feel free to check them out and use them for your own learning!
 
 
